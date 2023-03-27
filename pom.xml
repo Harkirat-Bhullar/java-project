@@ -38,7 +38,7 @@
     <repository>
         <id>test-maven</id>
         <name>92b3e6316632-releases</name>
-        <url>http://172.17.0.2:8082/artifactory/test-maven</url>
+        <url>http://172.17.0.5:8082/artifactory/test-maven</url>
     </repository>
 </distributionManagement>
 	<build>
